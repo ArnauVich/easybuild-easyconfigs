@@ -4,7 +4,7 @@ name = 'gensim'
 version = '0.11.1-1'
 
 homepage = 'https://pypi.python.org/pypi/gensim'
-description = """Gensim is a Python library for topic modelling, document indexing and similarity retrieval with
+description = """Gensim is  Python library for topic modelling, document indexing and similarity retrieval with
  large corpora."""
 
 toolchain = {'name': 'foss', 'version': '2015b'}
